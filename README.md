@@ -8,6 +8,7 @@ The dataset provides information about COVID-19 cases, deaths, population, and v
 
 Using Africa as case study.
 
+# Summary of Findings:
 Here is a summary of the queries and the insights they provide:
 
 1. Mortality Rate: This query calculates and shows the percentage of deaths in relation to the total number of cases. It helps us understand how likely contracting the virus would be.
